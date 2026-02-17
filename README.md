@@ -195,6 +195,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 1][1156]
   - [Part 2][1157]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
+- ["Windows arm64 Internals: Deconstructing Pointer Authentication"][1190]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
@@ -257,6 +258,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   [Part 1][858]
   [Part 2][859]
   [Part 3][860]
+  [Part 4][1191]
+  [Part 5][1192]
 - ["Commonly Abused Linux Initial Access Techniques and Detection Strategies"][896]
 - ["Compiler Options Hardening Guide for C and C++"][877]
 - ["Continuously fuzzing Python C extensions"][734]
@@ -2556,3 +2559,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1187]: https://www.usenix.org/system/files/woot25-muench.pdf
 [1188]: https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html
 [1189]: https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
+[1190]: https://www.originhq.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
+[1191]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/
+[1192]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/?ref=blog.exploits.club
